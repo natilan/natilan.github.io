@@ -1,0 +1,27 @@
+.top-banner {
+    background-color: #2370eb;
+    color: white;
+    margin-top: 20px;
+    padding: 20px 0px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+
+#catimg {
+    width: 30%;
+    height: 30%;
+}
+
+#catname {
+    color: #2370eb;
+    font-size: 100px;    
+}
+
+.bold {
+    font-weight: bold;
+}
